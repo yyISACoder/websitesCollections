@@ -57,3 +57,5 @@ react-router-dom讲解 https://segmentfault.com/a/1190000020812860
 require与import的区别 http://idea.medeming.com/jets/
 
 排序算法讲解： https://www.cnblogs.com/onepixel/articles/7674659.html
+
+解决create-react-app 脚手架打包时，运行内存溢出的命令： set NODE_OPTIONS=--max_old_space_size=4096&&react-scripts build
