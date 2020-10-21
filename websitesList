@@ -61,3 +61,5 @@ require与import的区别 http://idea.medeming.com/jets/
 解决create-react-app 脚手架打包时，运行内存溢出的命令： set NODE_OPTIONS=--max_old_space_size=4096&&react-scripts build
 
 js冷知识：https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/24915094fa85442ca7f9891fbe0db2d3~tplv-k3u1fbpfcp-watermark.webp?imageView2/2/w/800/q/85
+
+vue响应式原理解析 https://www.jianshu.com/p/1032ecd62b3a
