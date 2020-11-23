@@ -65,3 +65,5 @@ js冷知识：https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/24915094fa85442c
 vue响应式原理解析 https://www.jianshu.com/p/1032ecd62b3a
 
 浏览器多进程讲解 https://juejin.im/post/6844903812642111501
+
+缺少python2.7支持 可快速使用以下语句完成安装   npm install --global --production windows-build-tools
